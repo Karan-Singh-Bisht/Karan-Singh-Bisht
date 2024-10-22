@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karan Singh Bisht</h1>
 <h3 align="center">A passionate MERN STACK developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://imgs.search.brave.com/HECyRSXt6HSw1yz0qC2X08r2Wmk3pHb-6MvaAZlIdyo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.jpeg)"/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karan-singh-bisht" alt="karan-singh-bisht" /></a> </p>
 
