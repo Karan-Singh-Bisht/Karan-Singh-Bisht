@@ -24,4 +24,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karan-singh-bisht&show_icons=true&locale=en&layout=compact" alt="karan-singh-bisht" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karan-singh-bisht&" alt="karan-singh-bisht" /></p>
